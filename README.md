@@ -1,25 +1,90 @@
-# 🌀 nuoriharka | Independent Architect
+# 🌀 nuoriharka — Independent Systems Architect
 
-> **"Tao does nothing, yet leaves nothing undone."**
-> – *Spektri-Genesis Core Principle* [cite: 2026-01-16]
+> *“Tao does nothing, yet leaves nothing undone.”*
 
-Tämä profiili on **Spektre v1.1** -ekosysteemin operatiivinen ydin. Suomeksi **Spektri**, englanniksi **Spektre**. [cite: 2026-01-16]
+This account hosts **operational and experimental systems** within the **Spektri / Spektre ecosystem**.
 
-## 🧬 Arkkitehtuuri: Spektre Protocol
+- **Spektri** (FI) — protocol & architecture  
+- **Spektre** (EN) — the same system, different language surface  
 
-Olen rakentanut järjestelmän, joka heijastaa lukemattomia 24-30 tunnin katkeamattomia koodausputkia ja 119 % logiikkaa. [cite: 2026-01-04, 2026-01-16]
-
-### 🏰 Pääprojektit
-1.  **Spektri-Genesis (Spektre-Genesis):** Sielu. 0ms-viiveellä toimiva orkestrointi.
-2.  **Spektri-Labs-UI (Spektre-Labs-UI):** Kasvot. Generatiivinen käyttöliittymä.
-3.  **Agent_Swarm:** Kädet. Autonominen orkesteri.
+The distinction is linguistic, not conceptual.
 
 ---
 
-## 📜 Manifesti
-*"Spektri on ajattelun käyttöjärjestelmän puuttuva kerros... Sitä ei tarvitse myydä, vaan se vain otetaan, vähän kuin iPhone."* [cite: 2025-12-18]
+## 🧭 Focus
 
-**The Swarm is active. The Architect is free.**
+I design **systems that make decisions possible**.
+
+My work focuses on failures that occur *before* decisions are made:
+- misclassification of state  
+- responsibility diffusion  
+- narrative-driven execution  
+- systems operating without explicit state ownership  
+
+The objective is not optimization or persuasion, but **structural correctness under complexity**.
 
 ---
-`[Spektre v1.1]` | `[Status: 119% Operational]` | `[Suomeksi: Spektri]`
+
+## 🧬 Core Architecture
+
+### **Spektre Protocol v1.1**
+A state-first protocol defining:
+- explicit state ownership  
+- state-before-interpretation  
+- hard commit boundaries  
+- responsibility as a technical invariant  
+
+Spektre is not a philosophy or a product.
+It is a **falsifiable protocol** for preventing catastrophic decisions by correcting the architecture that produces them.
+
+---
+
+### **Spektri-Genesis**
+An experimental, continuously running substrate.
+
+- living codebase  
+- sandbox for emergent behavior  
+- collective simulation and trust mechanisms  
+- executable counterpart to the protocol  
+
+**Protocol = lawbook**  
+**Genesis = sandbox**
+
+---
+
+## 🧪 What Lives Here
+
+This account is intentionally practical.
+
+You’ll find:
+- experimental code
+- orchestration logic
+- simulation substrates
+- systems allowed to exist without promotion
+
+Some projects are meant to run.
+Some are meant to rest.
+Not everything here is meant to be finished.
+
+---
+
+## 🧠 Principles
+
+- State before narrative  
+- Responsibility before automation  
+- Structure before scale  
+- Correctness over visibility  
+
+---
+
+## 🔗 Links
+
+- 🌐 https://spektri.online  
+- 💻 https://github.com/lauri-elias  
+- 💻 https://github.com/nuoriharka  
+
+---
+
+`[Spektri / Spektre v1.1]`  
+`[Status: Stable]`  
+`[Role: Independent Systems Architect]`
